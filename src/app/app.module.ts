@@ -8,9 +8,9 @@ import { MyApp } from './app.component';
 import { HomePage } from '../pages/home/home';
 import { CategoriasComponent } from '../pages/categorias/categorias';
 import { PerfilComponent } from '../pages/perfil/perfil';
-import { ListComponent } from '../pages/list/list';
 import { TabsComponent} from '../components/tabs/tabs';
 import { CanastaComponent } from '../components/canasta/canasta';
+
 
 @NgModule({
   declarations: [
@@ -18,7 +18,6 @@ import { CanastaComponent } from '../components/canasta/canasta';
     HomePage,
     CategoriasComponent,
     PerfilComponent,
-    ListComponent,
     TabsComponent,
     CanastaComponent
     
@@ -32,7 +31,6 @@ import { CanastaComponent } from '../components/canasta/canasta';
     MyApp,
     HomePage,
     PerfilComponent,
-    ListComponent,
     TabsComponent,
     CanastaComponent
     

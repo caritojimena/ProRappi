@@ -16,7 +16,7 @@ export class PerfilComponent {
 
   constructor() {
     console.log('Hello PerfilComponent Component');
-    this.text = 'Hello World';
+    this.text = 'Perfil';
   }
 
 }
