@@ -32,7 +32,8 @@ import { CanastaComponent } from '../components/canasta/canasta';
     HomePage,
     PerfilComponent,
     TabsComponent,
-    CanastaComponent
+    CanastaComponent,
+    CategoriasComponent
     
   ],
   providers: [
